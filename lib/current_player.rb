@@ -7,7 +7,7 @@ def turn_count(board)
     brd
 end
 end 
-counte
+counter
 end 
 
 
